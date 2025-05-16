@@ -7,36 +7,6 @@ export type EachRoute = {
   items?: EachRoute[];
 };
 
-
-const oldRoutes = [
-  {
-    title: "Getting Started",
-    href: "/getting-started",
-    noLink: true,
-    items: [
-      { title: "Introduction", href: "/introduction" },
-      {
-        title: "Installation",
-        href: "/installation",
-        items: [
-          { title: "Laravel", href: "/laravel" },
-          { title: "React", href: "/react" },
-          { title: "Gatsby", href: "/gatsby" },
-        ],
-      },
-    ],
-  },
-  {
-    title: "Server Actions",
-    href: "/server-actions",
-    noLink: true,
-    items: [
-      { title: "getSession", href: "/getSession" },
-      { title: "getToken", href: "/getToken" },
-    ],
-  },
-]
-
 export const ROUTES: EachRoute[] = [
   {
     title: "Introdução",
@@ -77,7 +47,13 @@ export const ROUTES: EachRoute[] = [
     title: "Modos de uso",
     href: "/usage-modes",
     // noLink: true,
-    items: [],
+    items: [
+      {title: "Projeção", href: "#projeo"},
+      {title: "Uso Local com Arquivos", href: "#uso-local-com-arquivos"},
+      {title: "Lousa Interativa", href: "#lousa-interativa"},
+      {title: "Ensino Colaborativo", href: "#ensino-colaborativo"},
+      {title: "Aulas Híbridas ou ", href: "#aulas-hbridas-ou-remotas"},
+    ],
   },
   {
     title: "Hardware",
@@ -88,12 +64,6 @@ export const ROUTES: EachRoute[] = [
       { title: "OPS", href: "/ops" },
     ],
   },
-  {
-    title: "Example Routes",
-    href: '/old',
-    noLink: true,
-    items: oldRoutes
-  }
 ];
 
 type Page = { title: string; href: string };

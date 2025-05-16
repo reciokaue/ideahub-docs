@@ -66,8 +66,9 @@ export default function SubLink({
         <CollapsibleContent>
           <div
             className={cn(
-              "flex flex-col items-start sm:text-sm dark:text-neutral-300/85 text-neutral-800 ml-0.5 mt-2.5 gap-3",
-              level > 0 && "pl-4 border-l ml-1"
+              "flex pl-2 flex-col items-start sm:text-sm dark:text-neutral-300/85 text-neutral-800 ml-0.5 mt-2.5 gap-3",
+              level >= 1 && "pl-4 border-l ml-1",
+              level > 0 && "pl-2",
             )}
           >
             {items?.map((innerLink) => {
