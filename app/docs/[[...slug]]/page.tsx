@@ -3,7 +3,6 @@ import { page_routes } from "@/lib/routes-config";
 import { notFound } from "next/navigation";
 import { getDocsForSlug } from "@/lib/markdown";
 import { Typography } from "@/components/typography";
-import { Pagination } from "@/components/pagination"
 
 type PageProps = {
   params: { slug: string[] };
