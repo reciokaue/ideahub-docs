@@ -51,11 +51,6 @@
   "utilizada": [
     0
   ],
-  "outros": [
-    0,
-    4,
-    14
-  ],
   "dispositivos": [
     0,
     9,
@@ -82,9 +77,6 @@
   "gerenciar": [
     0
   ],
-  "diversos": [
-    0
-  ],
   "otimizados": [
     0,
     11
@@ -105,19 +97,6 @@
   ],
   "gallery": [
     0
-  ],
-  "nao": [
-    0,
-    3,
-    9,
-    10,
-    13
-  ],
-  "possivel": [
-    0,
-    3,
-    11,
-    12
   ],
   "play": [
     0
@@ -146,12 +125,9 @@
   "suporte": [
     0,
     5,
-    7
+    6
   ],
   "servicos": [
-    0
-  ],
-  "tentando": [
     0
   ],
   "via": [
@@ -168,25 +144,13 @@
   ],
   "cpuz": [
     0,
-    6
-  ],
-  "exemplo": [
-    0
+    7
   ],
   "funcionarao": [
     0
   ],
   "corretamente": [
     0
-  ],
-  "note": [
-    0,
-    3,
-    5,
-    6,
-    9,
-    13,
-    14
   ],
   "afeta": [
     0
@@ -216,29 +180,14 @@
   "propria": [
     0
   ],
-  "alguns": [
-    0,
-    11,
-    12
-  ],
   "populares": [
     0
-  ],
-  "tambem": [
-    0,
-    3,
-    12,
-    14
   ],
   "presentes": [
     0
   ],
   "apple": [
     0
-  ],
-  "atraves": [
-    0,
-    9
   ],
   "acordos": [
     0
@@ -256,17 +205,7 @@
     0,
     10
   ],
-  "pode": [
-    0,
-    3,
-    9,
-    12,
-    14
-  ],
   "diferente": [
-    0
-  ],
-  "sempre": [
     0
   ],
   "verifique": [
@@ -275,13 +214,10 @@
   "compatibilidade": [
     0
   ],
-  "antes": [
-    0
-  ],
   "instalacao": [
     0,
     3,
-    6,
+    7,
     9
   ],
   "instalando": [
@@ -301,10 +237,15 @@
     0,
     3,
     4,
-    6,
+    7,
     9,
     11,
     14
+  ],
+  "esteja": [
+    0,
+    3,
+    10
   ],
   "disponivel": [
     0,
@@ -326,10 +267,10 @@
   "apk": [
     0
   ],
-  "aptoidehttpswwwaptoidecom": [
+  "aptoide": [
     0
   ],
-  "uptodownhttpswwwuptodowncom": [
+  "uptodown": [
     0
   ],
   "repositorios": [
@@ -388,14 +329,6 @@
   "processo": [
     0
   ],
-  "ainda": [
-    0,
-    9
-  ],
-  "podem": [
-    0,
-    10
-  ],
   "funcionar": [
     0
   ],
@@ -411,10 +344,6 @@
   "remover": [
     0
   ],
-  "qualquer": [
-    0,
-    4
-  ],
   "acesse": [
     0
   ],
@@ -424,11 +353,6 @@
   "localizada": [
     0,
     9
-  ],
-  "lado": [
-    0,
-    11,
-    12
   ],
   "esquerdo": [
     0,
@@ -444,7 +368,7 @@
     3,
     4,
     5,
-    7,
+    6,
     9,
     10,
     11,
@@ -482,9 +406,6 @@
   "garantir": [
     0
   ],
-  "maior": [
-    0
-  ],
   "seguranca": [
     0,
     3
@@ -496,7 +417,8 @@
     1
   ],
   "files": [
-    2
+    2,
+    14
   ],
   "gerenciador": [
     2
@@ -513,25 +435,12 @@
     9,
     14
   ],
-  "usar": [
-    3,
-    9,
-    10,
-    14
-  ],
   "projetar": [
     3,
     9
   ],
   "controlar": [
     3
-  ],
-  "ideahubimagesprojectionjpg": [
-    3
-  ],
-  "partir": [
-    3,
-    11
   ],
   "computador": [
     3,
@@ -565,14 +474,9 @@
   "operacional": [
     3,
     5,
-    6,
+    7,
     12,
     13
-  ],
-  "meio": [
-    3,
-    4,
-    11
   ],
   "link": [
     3
@@ -595,20 +499,13 @@
     9,
     12
   ],
-  "ioshttpswwwhuaweicloudcomintlptbrproductideasharehtml": [
-    3
-  ],
-  "apos": [
-    3
+  "ios": [
+    3,
+    9
   ],
   "certifiquese": [
     3,
     9
-  ],
-  "mesma": [
-    3,
-    9,
-    14
   ],
   "rede": [
     3,
@@ -622,7 +519,7 @@
     3,
     4,
     5,
-    7,
+    6,
     9
   ],
   "conectandose": [
@@ -663,18 +560,11 @@
     3,
     9
   ],
-  "proprio": [
-    3
-  ],
   "insira": [
     3,
     9
   ],
   "formato": [
-    3,
-    9
-  ],
-  "xxxxxxxx": [
     3,
     9
   ],
@@ -703,9 +593,6 @@
   "periodicamente": [
     3
   ],
-  "ideashareimagesideashareapppng": [
-    3
-  ],
   "funcionalidades": [
     3
   ],
@@ -721,7 +608,8 @@
   ],
   "control": [
     3,
-    9
+    9,
+    13
   ],
   "celular": [
     3,
@@ -783,7 +671,7 @@
     3,
     4,
     5,
-    7,
+    6,
     9,
     11
   ],
@@ -799,12 +687,9 @@
   ],
   "opcao": [
     3,
-    7,
+    6,
     9,
     10
-  ],
-  "agora": [
-    3
   ],
   "conteudo": [
     3,
@@ -813,7 +698,7 @@
   ],
   "compartilhada": [
     3,
-    6,
+    7,
     14
   ],
   "passar": [
@@ -855,13 +740,7 @@
   "interativa": [
     3,
     5,
-    7,
-    14
-  ],
-  "tempo": [
-    3,
-    5,
-    10,
+    6,
     14
   ],
   "real": [
@@ -875,11 +754,6 @@
   "interacoes": [
     3
   ],
-  "voce": [
-    3,
-    9,
-    14
-  ],
   "simultaneamente": [
     3
   ],
@@ -889,21 +763,16 @@
     9,
     10
   ],
-  "sobre": [
-    3,
-    4,
-    9,
-    14
-  ],
   "compartilhado": [
     3,
-    6
+    7
   ],
   "whiteboard": [
     3,
     4,
     10,
-    11
+    11,
+    14
   ],
   "desenhar": [
     3,
@@ -920,22 +789,16 @@
   "informacoes": [
     3,
     5,
-    6
+    7
   ],
   "feita": [
     3,
     14
   ],
-  "tanto": [
-    3
-  ],
   "caneta": [
     3,
     4,
-    7
-  ],
-  "quanto": [
-    3
+    6
   ],
   "dedos": [
     3
@@ -946,17 +809,17 @@
   ],
   "lousa": [
     4,
-    7,
+    6,
     14
   ],
   "padrao": [
     4,
-    7
+    6
   ],
   "digital": [
     4,
     5,
-    7,
+    6,
     14
   ],
   "capturar": [
@@ -1006,9 +869,6 @@
   "transforma": [
     4
   ],
-  "momento": [
-    4
-  ],
   "oportunidade": [
     4
   ],
@@ -1038,9 +898,6 @@
     4,
     11
   ],
-  "outras": [
-    4
-  ],
   "anteriormente": [
     4
   ],
@@ -1051,7 +908,7 @@
   "participantes": [
     4,
     5,
-    7
+    6
   ],
   "diferentes": [
     4,
@@ -1087,20 +944,10 @@
     14
   ],
   "pdf": [
-    4,
-    14
-  ],
-  "todas": [
-    4,
-    10
+    4
   ],
   "paginas": [
     4
-  ],
-  "sao": [
-    4,
-    10,
-    14
   ],
   "incluidas": [
     4
@@ -1152,16 +999,13 @@
   "selecao": [
     4
   ],
-  "cada": [
-    4
-  ],
   "ferramenta": [
     4,
     14
   ],
   "possui": [
     4,
-    7,
+    6,
     13
   ],
   "cores": [
@@ -1264,10 +1108,6 @@
     4,
     12
   ],
-  "tipo": [
-    4,
-    5
-  ],
   "grid": [
     4
   ],
@@ -1276,12 +1116,6 @@
   ],
   "quadriculado": [
     4
-  ],
-  "pontos": [
-    4,
-    5,
-    7,
-    14
   ],
   "etc": [
     4
@@ -1314,9 +1148,6 @@
     9,
     14
   ],
-  "direita": [
-    4
-  ],
   "avanca": [
     4
   ],
@@ -1333,10 +1164,6 @@
   "central": [
     4,
     10
-  ],
-  "ver": [
-    4,
-    7
   ],
   "miniatura": [
     4
@@ -1370,9 +1197,6 @@
   "cria": [
     4
   ],
-  "nova": [
-    4
-  ],
   "hardware": [
     5,
     6,
@@ -1381,7 +1205,7 @@
   ],
   "detalhes": [
     5,
-    7,
+    6,
     9,
     14
   ],
@@ -1396,7 +1220,7 @@
   ],
   "extraidas": [
     5,
-    6
+    7
   ],
   "manuais": [
     5
@@ -1406,7 +1230,7 @@
   ],
   "modelo": [
     5,
-    6
+    7
   ],
   "ihssa": [
     5
@@ -1416,7 +1240,7 @@
   ],
   "fabricante": [
     5,
-    6
+    7
   ],
   "polegadas": [
     5,
@@ -1425,15 +1249,15 @@
   ],
   "harmonyos": [
     5,
-    7
+    6
   ],
   "tamanho": [
     5,
-    6
+    7
   ],
   "resolucao": [
     5,
-    6
+    7
   ],
   "k": [
     5,
@@ -1445,12 +1269,6 @@
   ],
   "hd": [
     5
-  ],
-  "x": [
-    5,
-    6,
-    7,
-    13
   ],
   "pixels": [
     5
@@ -1469,7 +1287,7 @@
   ],
   "hz": [
     5,
-    6
+    7
   ],
   "brilho": [
     5,
@@ -1508,18 +1326,18 @@
   ],
   "memoria": [
     5,
-    6
+    7
   ],
   "cpu": [
     5,
-    6
+    7
   ],
   "nucleos": [
     5
   ],
   "arquitetura": [
     5,
-    6
+    7
   ],
   "arm": [
     5,
@@ -1537,11 +1355,11 @@
   ],
   "interno": [
     5,
-    7
+    6
   ],
   "capacidade": [
     5,
-    6
+    7
   ],
   "ia": [
     5
@@ -1551,7 +1369,7 @@
   ],
   "camera": [
     5,
-    7,
+    6,
     10
   ],
   "sensor": [
@@ -1575,14 +1393,14 @@
   ],
   "rastreamento": [
     5,
-    7
+    6
   ],
   "automatico": [
     5
   ],
   "voz": [
     5,
-    7
+    6
   ],
   "tampa": [
     5
@@ -1595,15 +1413,15 @@
   ],
   "audio": [
     5,
-    6
+    7
   ],
   "microfones": [
     5,
-    7
+    6
   ],
   "array": [
     5,
-    7
+    6
   ],
   "khz": [
     5
@@ -1616,7 +1434,7 @@
   ],
   "captacao": [
     5,
-    7
+    6
   ],
   "altofalantes": [
     5
@@ -1629,7 +1447,7 @@
   ],
   "frequencia": [
     5,
-    6
+    7
   ],
   "fullrange": [
     5
@@ -1644,10 +1462,6 @@
     5,
     10
   ],
-  "ate": [
-    5,
-    7
-  ],
   "db": [
     5
   ],
@@ -1661,11 +1475,11 @@
   ],
   "ghz": [
     5,
-    6
+    7
   ],
   "ethernet": [
     5,
-    6
+    7
   ],
   "gigabit": [
     5
@@ -1677,7 +1491,7 @@
   ],
   "hdmi": [
     5,
-    7,
+    6,
     9,
     10
   ],
@@ -1702,11 +1516,11 @@
   ],
   "p": [
     5,
-    6
+    7
   ],
   "nfc": [
     5,
-    7
+    6
   ],
   "emparelhamento": [
     5
@@ -1730,36 +1544,36 @@
   ],
   "dimensoes": [
     5,
-    7
+    6
   ],
   "l": [
     5,
-    6
+    7
   ],
   "peso": [
     5
   ],
   "kg": [
     5,
-    7
+    6
   ],
   "acessorios": [
     5
   ],
   "montagem": [
     5,
-    7
+    6
   ],
   "parede": [
     5,
-    7
+    6
   ],
   "piso": [
     5
   ],
   "embutido": [
     5,
-    7
+    6
   ],
   "alimentacao": [
     5
@@ -1773,10 +1587,6 @@
   "consumo": [
     5
   ],
-  "maximo": [
-    5,
-    14
-  ],
   "localizacao": [
     5
   ],
@@ -1785,18 +1595,12 @@
   ],
   "espaco": [
     5,
-    6
+    7
   ],
   "imagem": [
     5,
-    6,
+    7,
     9
-  ],
-  "aqui": [
-    5,
-    6,
-    11,
-    14
   ],
   "inclusos": [
     5
@@ -1811,7 +1615,47 @@
   ],
   "escrita": [
     5,
-    7
+    6
+  ],
+  "introducao": [
+    6,
+    8
+  ],
+  "suporta": [
+    6
+  ],
+  "multitoque": [
+    6
+  ],
+  "stylus": [
+    6
+  ],
+  "inclusas": [
+    6,
+    14
+  ],
+  "baixa": [
+    6
+  ],
+  "latencia": [
+    6
+  ],
+  "inteligente": [
+    6
+  ],
+  "roda": [
+    6,
+    13
+  ],
+  "mede": [
+    6
+  ],
+  "pesa": [
+    6
+  ],
+  "projetado": [
+    6,
+    14
   ],
   "ops": [
     6,
@@ -1819,79 +1663,17 @@
     10,
     13
   ],
-  "detalhadas": [
-    6
-  ],
-  "modulo": [
-    6
-  ],
-  "conectado": [
+  "open": [
     6,
-    9
+    13
   ],
-  "nome": [
-    6
-  ],
-  "cdd": [
-    6
-  ],
-  "collaboration": [
-    6
-  ],
-  "device": [
-    6
-  ],
-  "placa": [
-    6
-  ],
-  "srklsopsc": [
-    6
-  ],
-  "serial": [
-    6
-  ],
-  "gq": [
-    6
-  ],
-  "uuid": [
-    6
-  ],
-  "beafadeabb": [
-    6
-  ],
-  "pro": [
-    6
-  ],
-  "versao": [
+  "pluggable": [
     6,
-    11
+    13
   ],
-  "h": [
-    6
-  ],
-  "build": [
-    6
-  ],
-  "data": [
-    6
-  ],
-  "directx": [
-    6
-  ],
-  "uefi": [
-    6
-  ],
-  "sim": [
-    6
-  ],
-  "bios": [
-    6
-  ],
-  "insyde": [
-    6
-  ],
-  "corp": [
-    6
+  "specification": [
+    6,
+    13
   ],
   "intel": [
     6,
@@ -1913,210 +1695,218 @@
     6,
     7
   ],
-  "nucleosthreads": [
+  "rj": [
     6
+  ],
+  "pesando": [
+    6
+  ],
+  "cerca": [
+    6
+  ],
+  "detalhadas": [
+    7
+  ],
+  "modulo": [
+    7
+  ],
+  "conectado": [
+    7,
+    9
+  ],
+  "cdd": [
+    7
+  ],
+  "collaboration": [
+    7
+  ],
+  "device": [
+    7
+  ],
+  "placa": [
+    7
+  ],
+  "srklsopsc": [
+    7
+  ],
+  "serial": [
+    7
+  ],
+  "gq": [
+    7
+  ],
+  "uuid": [
+    7
+  ],
+  "beafadeabb": [
+    7
+  ],
+  "pro": [
+    7
+  ],
+  "versao": [
+    7,
+    11
+  ],
+  "h": [
+    7
+  ],
+  "build": [
+    7
+  ],
+  "data": [
+    7
+  ],
+  "directx": [
+    7
+  ],
+  "uefi": [
+    7
+  ],
+  "bios": [
+    7
+  ],
+  "insyde": [
+    7
+  ],
+  "corp": [
+    7
+  ],
+  "nucleosthreads": [
+    7
   ],
   "clock": [
-    6
+    7
   ],
   "base": [
-    6
+    7
   ],
   "turbo": [
-    6
+    7
   ],
   "nm": [
-    6
+    7
   ],
   "cache": [
-    6
+    7
   ],
   "kb": [
-    6
+    7
   ],
   "nucleo": [
-    6
+    7
   ],
   "mb": [
-    6
+    7
   ],
   "total": [
-    6,
+    7,
     10
   ],
   "ddr": [
-    6
+    7
   ],
   "samsung": [
-    6
+    7
   ],
   "macbcwe": [
-    6
+    7
   ],
   "mhz": [
-    6
+    7
   ],
   "timings": [
-    6
+    7
   ],
   "cl": [
-    6
+    7
   ],
   "kingston": [
-    6
+    7
   ],
   "ompsqa": [
-    6
+    7
   ],
   "ssd": [
-    6
+    7
   ],
   "interface": [
-    6
+    7
   ],
   "sata": [
-    6
+    7
   ],
   "particoes": [
-    6
+    7
   ],
   "c": [
-    6
+    7
   ],
   "d": [
-    6
+    7
   ],
   "video": [
-    6
+    7
   ],
   "gpu": [
-    6
+    7
   ],
   "uhd": [
-    6
+    7
   ],
   "graphics": [
-    6
+    7
   ],
   "integrada": [
-    6,
+    7,
     13
   ],
   "driver": [
-    6
+    7
   ],
   "maxima": [
-    6
+    7
   ],
   "suportada": [
-    6
+    7
   ],
   "realtek": [
-    6
+    7
   ],
   "gbe": [
-    6
+    7
   ],
   "family": [
-    6
+    7
   ],
   "controller": [
-    6
+    7
   ],
   "wirelessbluetooth": [
-    6
+    7
   ],
   "wireless": [
-    6
+    7
   ],
   "expansao": [
-    6
+    7
   ],
   "entradasaida": [
-    6
+    7
   ],
   "slots": [
-    6
+    7
   ],
   "pcie": [
-    6
+    7
   ],
   "ocupado": [
-    6
+    7
   ],
   "monitor": [
-    6
+    7
   ],
   "ideadisplay": [
-    6
-  ],
-  "introducao": [
-    7,
-    8
-  ],
-  "suporta": [
-    7
-  ],
-  "multitoque": [
-    7
-  ],
-  "stylus": [
-    7
-  ],
-  "inclusas": [
-    7,
-    14
-  ],
-  "baixa": [
-    7
-  ],
-  "latencia": [
-    7
-  ],
-  "inteligente": [
-    7
-  ],
-  "roda": [
-    7,
-    13
-  ],
-  "mede": [
-    7
-  ],
-  "pesa": [
-    7
-  ],
-  "sendo": [
-    7
-  ],
-  "projetado": [
-    7,
-    14
-  ],
-  "ideahubdocshardwareideahub": [
-    7
-  ],
-  "open": [
-    7,
-    13
-  ],
-  "pluggable": [
-    7,
-    13
-  ],
-  "specification": [
-    7
-  ],
-  "rj": [
-    7
-  ],
-  "pesando": [
-    7
-  ],
-  "cerca": [
-    7
-  ],
-  "opsdocshardwareops": [
     7
   ],
   "introduction": [
@@ -2187,10 +1977,6 @@
   ],
   "your": [
     8
-  ],
-  "local": [
-    8,
-    14
   ],
   "machine": [
     8
@@ -2373,51 +2159,6 @@
   "block": [
     8
   ],
-  "jsx": [
-    8
-  ],
-  "showlinenumbers": [
-    8
-  ],
-  "import": [
-    8
-  ],
-  "themeprovider": [
-    8
-  ],
-  "from": [
-    8
-  ],
-  "export": [
-    8
-  ],
-  "default": [
-    8
-  ],
-  "function": [
-    8
-  ],
-  "rootlayout": [
-    8
-  ],
-  "children": [
-    8
-  ],
-  "return": [
-    8
-  ],
-  "html": [
-    8
-  ],
-  "body": [
-    8
-  ],
-  "classnamecontainer": [
-    8
-  ],
-  "themeproviderchildrenthemeprovider": [
-    8
-  ],
   "conclusion": [
     8
   ],
@@ -2441,15 +2182,7 @@
   "abaixo": [
     9
   ],
-  "estao": [
-    9,
-    11
-  ],
   "maneiras": [
-    9,
-    14
-  ],
-  "fazer": [
     9,
     14
   ],
@@ -2468,16 +2201,8 @@
   "in": [
     9
   ],
-  "parte": [
-    9
-  ],
   "traseira": [
     9
-  ],
-  "sera": [
-    9,
-    12,
-    13
   ],
   "espelhada": [
     9
@@ -2485,18 +2210,10 @@
   "automaticamente": [
     9
   ],
-  "forma": [
-    9,
-    11,
-    14
-  ],
   "completa": [
     9
   ],
   "utilizando": [
-    9
-  ],
-  "ios": [
     9
   ],
   "instale": [
@@ -2512,9 +2229,6 @@
     9,
     14
   ],
-  "somente": [
-    9
-  ],
   "projetada": [
     9
   ],
@@ -2525,9 +2239,6 @@
     9
   ],
   "recomendada": [
-    9
-  ],
-  "pois": [
     9
   ],
   "completo": [
@@ -2547,14 +2258,6 @@
   "dicas": [
     9
   ],
-  "veja": [
-    9,
-    13,
-    14
-  ],
-  "projectiondocsappsideashare": [
-    9
-  ],
   "metodo": [
     9
   ],
@@ -2570,6 +2273,9 @@
   "completas": [
     9
   ],
+  "": [
+    9
+  ],
   "painel": [
     10,
     13
@@ -2578,21 +2284,6 @@
     10,
     12,
     13
-  ],
-  "div": [
-    10
-  ],
-  "classnameflex": [
-    10
-  ],
-  "spacex": [
-    10
-  ],
-  "itemscenter": [
-    10
-  ],
-  "textjustified": [
-    10
   ],
   "acessar": [
     10,
@@ -2638,19 +2329,6 @@
   "software": [
     10
   ],
-  "img": [
-    10,
-    12
-  ],
-  "classnameh": [
-    10
-  ],
-  "srcimageshandlepng": [
-    10
-  ],
-  "srcimagesshortcutspng": [
-    10
-  ],
   "home": [
     10,
     11
@@ -2664,12 +2342,6 @@
     10
   ],
   "controla": [
-    10
-  ],
-  "ligado": [
-    10
-  ],
-  "desligado": [
     10
   ],
   "input": [
@@ -2711,14 +2383,6 @@
   "pasta": [
     10
   ],
-  "todos": [
-    10,
-    12,
-    14
-  ],
-  "srcimagesshortcutappsjpg": [
-    10
-  ],
   "tasks": [
     10
   ],
@@ -2730,25 +2394,6 @@
     10
   ],
   "fechar": [
-    10
-  ],
-  "srcimagesshortcuttasksjpg": [
-    10
-  ],
-  "pagination": [
-    10,
-    12
-  ],
-  "prevtitleharmony": [
-    10
-  ],
-  "prevtodocssoftwareharmonyos": [
-    10
-  ],
-  "nexttitlewindows": [
-    10
-  ],
-  "nexttodocssoftwarewindows": [
     10
   ],
   "gestos": [
@@ -2800,12 +2445,6 @@
   "modernos": [
     11
   ],
-  "baixo": [
-    11
-  ],
-  "cima": [
-    11
-  ],
   "borda": [
     11
   ],
@@ -2830,10 +2469,6 @@
   "desenvolvido": [
     12
   ],
-  "grande": [
-    12,
-    14
-  ],
   "semelhanca": [
     12
   ],
@@ -2850,9 +2485,6 @@
   "atalhos": [
     12
   ],
-  "configuracoesappsconfig": [
-    12
-  ],
   "atalho": [
     12
   ],
@@ -2862,19 +2494,10 @@
   "lista": [
     12
   ],
-  "aplicativoslistadeaplicativos": [
-    12
-  ],
   "welcome": [
     12
   ],
-  "screenwelcomescreen": [
-    12
-  ],
-  "srcimagesstartscreenjpg": [
-    12
-  ],
-  "alttela": [
+  "screen": [
     12
   ],
   "instalados": [
@@ -2884,15 +2507,6 @@
     12
   ],
   "ocultar": [
-    12
-  ],
-  "srcimagesappgradejpg": [
-    12
-  ],
-  "altlista": [
-    12
-  ],
-  "screen": [
     12
   ],
   "apresentacao": [
@@ -2907,25 +2521,7 @@
   "descanso": [
     12
   ],
-  "srcimageswelcomescreenjpg": [
-    12
-  ],
-  "prevtitleintroducao": [
-    12
-  ],
-  "prevtodocsintroduction": [
-    12
-  ],
-  "nexttitleshortcuts": [
-    12
-  ],
-  "nexttodocssoftwareharmonyoscontrolpainel": [
-    12
-  ],
   "risc": [
-    13
-  ],
-  "specificationhardwareops": [
     13
   ],
   "plataforma": [
@@ -2960,9 +2556,6 @@
   "carregamento": [
     13
   ],
-  "controlsoftwareharmonyoscontrolpainel": [
-    13
-  ],
   "lateral": [
     13
   ],
@@ -2972,28 +2565,16 @@
   "login": [
     13
   ],
-  "titlenao": [
-    13
-  ],
   "desligue": [
     13
   ],
-  "typedanger": [
-    13
-  ],
   "feito": [
-    13
-  ],
-  "proximo": [
     13
   ],
   "necessario": [
     13
   ],
   "ligalo": [
-    13
-  ],
-  "opshardwareops": [
     13
   ],
   "modos": [
@@ -3003,9 +2584,6 @@
     14
   ],
   "ensino": [
-    14
-  ],
-  "dia": [
     14
   ],
   "vasta": [
@@ -3041,9 +2619,6 @@
   "adaptar": [
     14
   ],
-  "tudo": [
-    14
-  ],
   "projetor": [
     14
   ],
@@ -3057,9 +2632,6 @@
     14
   ],
   "tablet": [
-    14
-  ],
-  "teladocsprojection": [
     14
   ],
   "modo": [
@@ -3086,9 +2658,6 @@
   "videos": [
     14
   ],
-  "ja": [
-    14
-  ],
   "familiares": [
     14
   ],
@@ -3107,22 +2676,7 @@
   "desejados": [
     14
   ],
-  "pptx": [
-    14
-  ],
-  "docx": [
-    14
-  ],
-  "xlsb": [
-    14
-  ],
   "abrilos": [
-    14
-  ],
-  "filesappsfiles": [
-    14
-  ],
-  "dessa": [
     14
   ],
   "aproveita": [
@@ -3153,9 +2707,6 @@
     14
   ],
   "criados": [
-    14
-  ],
-  "whiteboardappswhiteboard": [
     14
   ],
   "colaborativo": [
@@ -3254,16 +2805,10 @@
   "interativas": [
     14
   ],
-  "onde": [
-    14
-  ],
   "escreve": [
     14
   ],
   "desenha": [
-    14
-  ],
-  "enquanto": [
     14
   ],
   "assistem": [
