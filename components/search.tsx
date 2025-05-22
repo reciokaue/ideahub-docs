@@ -7,7 +7,7 @@ import { useThrottle } from "@/utils/useThrottle";
 import { searchText } from "@/lib/finder/search";
 import Link from "next/link";
 import { Dialog, DialogContent, DialogTrigger } from "./ui/dialog";
-import { Typography } from "./typography";
+import { ROUTES } from "@/lib/routes-config";
 
 export default function SearchButton() {
   const [open, setOpen] = useState(false)
@@ -59,7 +59,7 @@ export default function SearchButton() {
         </div>
         </Button>
      </DialogTrigger>
-      <DialogContent className="flex flex-col p-0">
+      <DialogContent className="flex flex-col p-0 gap-0">
         <div className="border-b p-3 gap-2 flex itens-center">
           <Search size={18} className="mt-0.5"/>
           <input
@@ -73,13 +73,13 @@ export default function SearchButton() {
           />
 
         </div>
-        <div className="flex flex-col px-4 pb-6 space-y-2 overflow-y-auto max-h-[600px]">
+        <div className="flex flex-col px-4 py-6 space-y-2 overflow-y-auto max-h-[600px]">
           {pages.map((page) => (
             <Link
               href={page.href}
-              key={page.title}
               className="rounded p-3 bg-muted"
               onClick={() => setOpen(false)}
+              key={page.title}
             >
               <h4
                 className="text-sm font-semibold"
@@ -88,6 +88,19 @@ export default function SearchButton() {
               <p dangerouslySetInnerHTML={{__html: page.description}}/>
             </Link>
           ))}
+          {search == '' && pages?.length == 0 && <>
+            <h2>Sugestões</h2>
+            {ROUTES.map((route) => (
+              <Link href={route.href} key={route.href} className="rounded p-3 bg-muted">
+                {route.title}
+              </Link>
+            ))}
+          </>}
+          {search != '' && pages?.length == 0 && 
+            <div className="text-center py-8">
+              Nada encontrado
+            </div>
+          }
         </div>
       </DialogContent>
     </Dialog>

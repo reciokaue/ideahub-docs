@@ -5,17 +5,12 @@ import Link from "next/link";
 
 export default function Home() {
   return (
-    <div className="flex sm:min-h-[91vh] min-h-[88vh] flex-col items-center justify-center text-center px-2 py-8">
+    <div className="flex sm:min-h-[91vh] max-h-[88vh] flex-col items-center justify-center text-center px-2 py-8">
       <h1 className="text-5xl font-bold mb-4 sm:text-7xl">
-        Aria Docs <span className="text-primary">Lite</span>{" "}
-      </h1>
-      <h1 className="text-3xl font-bold mb-4 sm:text-5xl">
-        A minimal version of AriaDocs
+        Documentação Huawei<br/><span className="text-primary">Ideahub S2</span>{" "}
       </h1>
       <p className="mb-8 sm:text-md max-w-[800px] text-muted-foreground">
-        This feature-packed documentation template, built with Next.js, offers a
-        sleek and responsive design, perfect for all your project documentation
-        needs.
+        Esta documentação foi feita por um <a href="https://github.com/reciokaue">Kaue Recio</a>um aluno da Fatec-SO durante o período de estagio interno da faculdade, e esta aberta para edição e colaboração de quaisquer interessados buscando a melhor documentação possível deste projeto
       </p>
       <div>
         <Link
@@ -25,7 +20,7 @@ export default function Home() {
             size: "lg",
           })}
         >
-          Get Stared
+          Começar
         </Link>
       </div>
     </div>
